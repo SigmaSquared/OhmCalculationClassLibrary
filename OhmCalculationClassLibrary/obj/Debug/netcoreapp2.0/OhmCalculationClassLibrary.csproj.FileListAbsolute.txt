@@ -1,0 +1,8 @@
+C:\Users\SigmaSquared\source\repos\OhmCalculationClassLibrary\OhmCalculationClassLibrary\bin\Debug\netcoreapp2.0\OhmCalculationClassLibrary.deps.json
+C:\Users\SigmaSquared\source\repos\OhmCalculationClassLibrary\OhmCalculationClassLibrary\bin\Debug\netcoreapp2.0\OhmCalculationClassLibrary.dll
+C:\Users\SigmaSquared\source\repos\OhmCalculationClassLibrary\OhmCalculationClassLibrary\bin\Debug\netcoreapp2.0\OhmCalculationClassLibrary.pdb
+C:\Users\SigmaSquared\source\repos\OhmCalculationClassLibrary\OhmCalculationClassLibrary\obj\Debug\netcoreapp2.0\OhmCalculationClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SigmaSquared\source\repos\OhmCalculationClassLibrary\OhmCalculationClassLibrary\obj\Debug\netcoreapp2.0\OhmCalculationClassLibrary.AssemblyInfoInputs.cache
+C:\Users\SigmaSquared\source\repos\OhmCalculationClassLibrary\OhmCalculationClassLibrary\obj\Debug\netcoreapp2.0\OhmCalculationClassLibrary.AssemblyInfo.cs
+C:\Users\SigmaSquared\source\repos\OhmCalculationClassLibrary\OhmCalculationClassLibrary\obj\Debug\netcoreapp2.0\OhmCalculationClassLibrary.dll
+C:\Users\SigmaSquared\source\repos\OhmCalculationClassLibrary\OhmCalculationClassLibrary\obj\Debug\netcoreapp2.0\OhmCalculationClassLibrary.pdb
